@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Titulacion.Entidades.Curso" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Entidades\Curso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Titulacion.Entidades.Estudiante" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgBAQAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Entidades\Estudiante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Titulacion.Entidades.Examen" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAEIAAAAAACAAQAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Entidades\Examen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Titulacion.Entidades.CalificacionExamen" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAACAABAAAACAAAgAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Entidades\CalificacionExamen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Titulacion.Entidades.MatriculaGrado" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAACAAAAEAAAAAAAAAAAAAQAAAAAgAAAQA=</HashCode>
+      <FileName>Entidades\MatriculaGrado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Titulacion.Entidades.Tesis" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEIAAAAAACAAQAAAAAAAAAAIAAAAAEAA=</HashCode>
+      <FileName>Entidades\Tesis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Titulacion.Entidades.Tutor" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAQAAE=</HashCode>
+      <FileName>Entidades\Tutor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Titulacion.Entidades.Requisito" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAgAAAAAAAQAAAAAwQAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Requisito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Titulacion.Entidades.CalificacionTesis" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAABAAAACAAAgAAAAAAAAAAEQAAAAA=</HashCode>
+      <FileName>Entidades\CalificacionTesis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Titulacion.Entidades.Calificaciones" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Entidades\Calificaciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Titulacion.Entidades.Aprobacion" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Aprobacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
